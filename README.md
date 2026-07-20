@@ -3,7 +3,8 @@ https://mogdive.xyz €15 minecraft cheat thats for  Fabric 1.20.1 - 1.21.5, own
 
 # Showcase
 https://streamable.com/gmqzod <-- video
-<img width="2560" height="1372" alt="image" src="https://github.com/user-attachments/assets/20c0d050-e372-49aa-bdf7-8a891604ead2" /> <-- photo
+<img width="1532" height="1059" alt="image" src="https://github.com/user-attachments/assets/81327dc7-0d0a-430e-81be-3fc156a23b6f" />
+<img width="2560" height="1372" alt="image" src="https://github.com/user-attachments/assets/20c0d050-e372-49aa-bdf7-8a891604ead2" />
 
 
 # Source
